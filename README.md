@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=howards254&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <!--
 **Howards254/howards254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
